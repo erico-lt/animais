@@ -7,7 +7,7 @@ public abstract class Animal{
     
     public abstract void alimentar();
     
-    public abstract void emiitrSom();
+    public abstract void emitirSom();
 
     public void fazerAniversario(){
         this.setIdade(this.getIdade() + 1);
