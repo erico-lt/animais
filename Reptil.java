@@ -22,6 +22,6 @@ public class Reptil extends Animal{
 
     public void setCorDaEscama(String corDaEscama){
         this.corDaEscama = corDaEscama;
-    }
-
+    } 
+        
 }
