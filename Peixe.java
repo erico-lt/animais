@@ -17,7 +17,7 @@ public class Peixe extends Animal {
 
     @Override
     public void emitirSom(){
-        System.out.println("Sons: bufar");
+        System.out.println("Sons: Peixe não fala");
     } 
   
     public String getCorDaEscama() {
