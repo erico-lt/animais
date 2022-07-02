@@ -16,7 +16,7 @@ public class Mamifero extends Animal{
     }
 
     public String getCordDoPelo(){
-        return this.corDoPelo;
+        return this.corDoPelo;        
     }
 
     public void setCorDoPelo(String corDoPelo){
